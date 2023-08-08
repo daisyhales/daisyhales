@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daisyroselily
+- 👋 Hi, I’m @daisyhales
 - 👀 I’m interested in python and web design
 - 🌱 I’m currently learning python and JavaScript
 - 💞️ I’m looking to collaborate on web design
